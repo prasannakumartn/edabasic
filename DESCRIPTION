@@ -1,0 +1,11 @@
+Package: edabasic
+Type: Package
+Title: Outlier Analysis & Correlation Analysis
+Version: 0.1.0
+Author: PrasannaKumar
+Maintainer: The package maintainer <prasanna.kumar@praxis.ac.in>
+Description: It does outlier bounds and count detection with and without log transformations. And correlation strength between continous variables.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
